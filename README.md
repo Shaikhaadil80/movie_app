@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 hi i am aadil shaikh,i have done this task as per given instruction,
 i have used http package to get data from api, to show data i used listview builder with help of created data modal and also catch network image package to show image,
-thank you.
+thank you..
